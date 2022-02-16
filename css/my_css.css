@@ -1,0 +1,37 @@
+body {
+  font-family: "Maven Pro", sans-serif;
+  padding-top: 70px;
+}
+
+p{
+    font-style: normal;
+    color: rgb(83, 83, 83);
+    font-size: 18px;
+    font-weight: 400;
+  
+}
+.logo{
+  width: 40px;
+}
+.jumbotron {
+  padding-top: 10rem;
+  padding-bottom: 12rem;
+  
+}
+.avatar{
+  width: 450px;
+}
+
+section {
+  padding-top: 8rem;
+}
+.text-small{
+  padding-left: 12px ;
+}
+.text-red{
+  color:rgb(241, 9, 79)
+}
+.text-web{
+  color: #3f75e7;
+}
+
